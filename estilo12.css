@@ -1,0 +1,52 @@
+body{
+	background-color:black;
+	color:white;
+}
+
+
+#logo{
+	height:140px;
+	width:140px;
+	
+
+}
+#img1{
+	height:120px;
+	width:120px;
+	margin-top:-120px;
+}
+#header{
+	height:120px;
+	background-color:white;
+}
+#menu{
+	height:120;
+	width:1520;
+	background-color:grey;
+	margin-right:250;
+	margin-top:-260px;
+}
+#conteudo{
+	color:white;
+	margin-top:100px;
+
+}
+#img2{
+	margin-top:-450;
+	margin-left:450;
+	height:500;
+	width:450;
+}
+#enredo{
+	color:white;
+	margin-right:900;
+}
+#banner{
+}
+#img3{
+    height:500 ;
+	width:550;
+	margin-top:200;
+	margin-left:390px;
+	
+	
